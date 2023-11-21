@@ -7,3 +7,6 @@
 
 ## Библиотеки
 *pandas, numpy, matplotlib, tensorflow*
+
+## Статус
+завершен
